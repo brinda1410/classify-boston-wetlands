@@ -9,4 +9,9 @@ This repository does not contain the image data used for training/testing the mo
 
 The output of this script is a web-application that serves the CNN model under the hood. It spits out the probability of an image being a wetland or non-wetland.
 
+### Wetland Identification in Boston.pdf 
+This file contains the presentation which was shared with the Department of Innovation and Technology's Analytics Team detailing the non-technical aspects of the project outline.
+
+
+
 ![Wetlands Picture](https://user-images.githubusercontent.com/90286831/186621792-b537f1e2-11c4-43c0-8f3c-16a3f33c250c.png)
