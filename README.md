@@ -7,6 +7,6 @@ non-wetlands in the city, for better resource allocation by the city and the res
 
 This repository does not contain the image data used for training/testing the model. The code was implemented in Google Colab to use the free GPUs available for training the model. This implementation uses PyTorch framework to train a Convolutional Neural Network (CNN) model on images of wetlands and non-wetlands in Boston.
 
-The output of this script is a web-application that serves the CNN model under the hood. 
+The output of this script is a web-application that serves the CNN model under the hood. It spits out the probability of an image being a wetland or non-wetland.
 
 ![Wetlands Picture](https://user-images.githubusercontent.com/90286831/186621792-b537f1e2-11c4-43c0-8f3c-16a3f33c250c.png)
