@@ -5,4 +5,4 @@ Boston is facing climate related issues, such as extremely hot weather and risk 
 present in the city, the wetlands. The goal is to help Boston's Environment Department to use satellite image data to identify wetlands and 
 non-wetlands in the city, for better resource allocation by the city and the residents. 
 
-This repository does not contain the image data used for training/testing the model. 
+This repository does not contain the image data used for training/testing the model. The code was implemented in Google Colab to use the free GPUs available for training the model. This implementation uses PyTorch framework to train a Convolutional Neural Network model on images of wetlands and non-wetlands in Boston.
