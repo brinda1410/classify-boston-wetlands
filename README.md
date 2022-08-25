@@ -1,5 +1,7 @@
 # Identify Boston Wetlands
 
+![Wetlands Picture](https://user-images.githubusercontent.com/90286831/186621792-b537f1e2-11c4-43c0-8f3c-16a3f33c250c.png)
+
 This project was undertaken as part of my stint as a Data Scientist with the City of Boston, Department of Innovation and Technology. 
 Boston is facing climate related issues, such as extremely hot weather and risk of flooding, all of which can be mitigated by a natural resource 
 present in the city, the wetlands. The goal is to help Boston's Environment Department to use satellite image data to identify wetlands and 
@@ -12,6 +14,5 @@ The output of this script is a web-application that serves the CNN model under t
 ### Wetland Identification in Boston.pdf 
 This file contains the presentation which was shared with the Department of Innovation and Technology's Analytics Team detailing the non-technical aspects of the project outline.
 
-
-
-![Wetlands Picture](https://user-images.githubusercontent.com/90286831/186621792-b537f1e2-11c4-43c0-8f3c-16a3f33c250c.png)
+### Pretrained_Model_resnet34_JPG_Wetlands.ipynb
+This is the script which sources the images, pre-processes the images, trains and tests the CNN model using PyTorch framework and serves the model on a web-interface
